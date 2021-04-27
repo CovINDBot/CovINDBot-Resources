@@ -21,6 +21,7 @@ Statewise Resources for CovINDBot
 
 ### Important Links and Contacts
 
+- Covid Bengal : https://wb.gov.in/COVID-19.aspx
 - Bed Availability in Government Hospital : https://www.wbhealth.gov.in/pages/corona/bed_availability
 - Bed Availability in Private Hospital : https://www.wbhealth.gov.in/pages/corona/bed_availability_pvt
 - Covid Patient Status : http://cpms.wbhealth.gov.in:8003/PatientStatusForPublic.aspx

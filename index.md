@@ -11,37 +11,37 @@
 
 ## Plasma Banks
 
-- https://www.teamsosindia.in/covidplasmarequest.html
-- https://dhoondh.com/
-- https://plasmadonor.in/
-- https://needplasma.in/
-- https://plasmaline.in/
-- https://givered.in/
-- https://www.simplyblood.com/
+- <https://www.teamsosindia.in/covidplasmarequest.html>
+- <https://dhoondh.com/>
+- <https://plasmadonor.in/>
+- <https://needplasma.in/>
+- <https://plasmaline.in/>
+- <https://givered.in/>
+- <https://www.simplyblood.com/>
 
 ## Social Media Groups
 
-- https://t.me/CovidPatna
-- https://t.me/CovidAhmedabad
-- https://t.me/CovidBengaluru
-- https://t.me/covidbhopal
-- https://t.me/CovidChandigarh
-- https://t.me/CovidCoimbatore
-- https://t.me/CovidHyderabad
-- https://t.me/CovidIndore
-- https://t.me/CovidJaipur
-- https://t.me/CovidJodhpur
-- https://t.me/CovidKolkata
-- https://t.me/CovidLucknow 
-- https://t.me/CovidMumbai
-- https://t.me/CovidNCR
-- https://t.me/CovidNagpur
-- https://t.me/CovidNashik
-- https://t.me/CovidPune
-- https://t.me/CovidSurat
-- https://t.me/CovidUdaipur
-- https://t.me/CovidVapi
-- https://t.me/CovidVaranasi
+- <https://t.me/CovidPatna>
+- <https://t.me/CovidAhmedabad>
+- <https://t.me/CovidBengaluru>
+- <https://t.me/covidbhopal>
+- <https://t.me/CovidChandigarh>
+- <https://t.me/CovidCoimbatore>
+- <https://t.me/CovidHyderabad>
+- <https://t.me/CovidIndore>
+- <https://t.me/CovidJaipur>
+- <https://t.me/CovidJodhpur>
+- <https://t.me/CovidKolkata>
+- <https://t.me/CovidLucknow>
+- <https://t.me/CovidMumbai>
+- <https://t.me/CovidNCR>
+- <https://t.me/CovidNagpur>
+- <https://t.me/CovidNashik>
+- <https://t.me/CovidPune>
+- <https://t.me/CovidSurat>
+- <https://t.me/CovidUdaipur>
+- <https://t.me/CovidVapi>
+- <https://t.me/CovidVaranasi>
 
 <a name="westbengal" />
 
@@ -57,23 +57,23 @@
 
 ### Official Links and Contacts
 
-- Covid Bengal : https://wb.gov.in/COVID-19.aspx
-- Bed Availability in Government Hospital : https://www.wbhealth.gov.in/pages/corona/bed_availability
-- Bed Availability in Private Hospital : https://www.wbhealth.gov.in/pages/corona/bed_availability_pvt
-- Covid Patient Status : http://cpms.wbhealth.gov.in:8003/PatientStatusForPublic.aspx
-- Plasma Donation : http://applyonline.wbhealth.gov.in:8004/
-- Covid Live Audio Visual TeleMedicine : https://www.wbhealth.gov.in/contents/covid_telemedicine
-- Swasthya Bhawan : +91 6290648755 +91 6291215847 https://www.wbhealth.gov.in/contents/contactus
+- Covid Bengal : <https://wb.gov.in/COVID-19.aspx>
+- Bed Availability in Government Hospital : <https://www.wbhealth.gov.in/pages/corona/bed_availability>
+- Bed Availability in Private Hospital : <https://www.wbhealth.gov.in/pages/corona/bed_availability_pvt>
+- Covid Patient Status : <http://cpms.wbhealth.gov.in:8003/PatientStatusForPublic.aspx>
+- Plasma Donation : <http://applyonline.wbhealth.gov.in:8004/>
+- Covid Live Audio Visual TeleMedicine : <https://www.wbhealth.gov.in/contents/covid_telemedicine>
+- Swasthya Bhawan : +91 6290648755 +91 6291215847 <https://www.wbhealth.gov.in/contents/contactus>
 
 <a name="westbengal-resources" />
 
 ### Unofficial Resources ( CrowdSource )
 
-- https://navigatingthepandemic.com/
-- https://kolcovidresource.glideapp.io/
-- https://docs.google.com/spreadsheets/d/1ZSFKlsqnu9f_iiSlxkePLLj1aRTRBfjUijaezPtjafM/htmlview
-- https://docs.google.com/spreadsheets/u/0/d/1X7tqWu036hJYexlVUAOHv64eF5Nfn71XGtlYjMxP8lw/htmlview
-- https://docs.google.com/document/d/1C9ZGWFK4uwF4yxTJNtdLYB8KrKYUF75_IGKNPVfyuks/edit
+- <https://navigatingthepandemic.com/>
+- <https://kolcovidresource.glideapp.io/>
+- <https://docs.google.com/spreadsheets/d/1ZSFKlsqnu9f_iiSlxkePLLj1aRTRBfjUijaezPtjafM/htmlview>
+- <https://docs.google.com/spreadsheets/u/0/d/1X7tqWu036hJYexlVUAOHv64eF5Nfn71XGtlYjMxP8lw/htmlview>
+- <https://docs.google.com/document/d/1C9ZGWFK4uwF4yxTJNtdLYB8KrKYUF75_IGKNPVfyuks/edit>
 
 <a name="westbengal-plasma-banks" />
 
@@ -87,10 +87,10 @@
 6. N.R.S Medical College & Hospital Blood Bank: 03322652214
 7. Calcutta National Medical College Blood Bank: 03322844834
 8. Medinipur Medical College 03222 222 400
-9. Bankura Sammilani Medical  03242 255 511
-10. Chinsura Imambara Dist. Hospital 033 2680 2293 /  033 2680 0236
-11. Burdwan Medical College  0342 265 8646
-12. Asansol Dist. Hospital  0341 230 4040
+9. Bankura Sammilani Medical 03242 255 511
+10. Chinsura Imambara Dist. Hospital 033 2680 2293 / 033 2680 0236
+11. Burdwan Medical College 0342 265 8646
+12. Asansol Dist. Hospital 0341 230 4040
 13. Baharampur District Hospital Blood Bank: 03482 252 332
 14. Malda Medical College & Hospital Blood bank: (03512) 221087, 221085, 221427, 252480
 15. Balurghat Dist Hospital blood bank- 03522 255288
@@ -107,79 +107,81 @@
 #### Government Hospitals
 
 1. NRS Hospital (Nil Ratan Sircar Medical College and Hospital)
-    - 033 2286 0033
-    - 033 2265 3214
-    - 033 2265 3215
-    - 033 2265 3216
-    - 033 2265 3217
+
+   - 033 2286 0033
+   - 033 2265 3214
+   - 033 2265 3215
+   - 033 2265 3216
+   - 033 2265 3217
 
 2. Calcutta Medical College
-    - 033 2255 1621
+
+   - 033 2255 1621
 
 3. Chittaranjan National Cancer Institute (CNCI)
 
-    - 033 2476 5101 
-    - 033 23245010
-    - 033 23245011
-    - 033 23245013
-    - 033 23245014
+   - 033 2476 5101
+   - 033 23245010
+   - 033 23245011
+   - 033 23245013
+   - 033 23245014
 
 4. COM & Sagar Datta Hospital
 
-    - 033 2583 4277
-    - 033 2523 9058
-    - 80132 78169
+   - 033 2583 4277
+   - 033 2523 9058
+   - 80132 78169
 
 5. ESIC Medical College and Hospitals (ESI-PGIMSR Medical College and Hospital)
 
-    - 033 2467 1764
+   - 033 2467 1764
 
 6. M R Bangur Hospital
 
-    - 08820702070
+   - 08820702070
 
 #### Private Hospitals
 
 1. Al Amin Gopalpur Nursing Home
 
-    - 033 2357 6000
+   - 033 2357 6000
 
 2. All Asia Medical Institute
 
-    - 3340012200
+   - 3340012200
 
 3. AMRI Hospital, Mukundapur
 
-    - 033 6680 0000
+   - 033 6680 0000
 
 4. AMRI Hospital, Salt Lake
 
-    - 033 6606 3800
+   - 033 6606 3800
 
 5. APEX IMS
 
-    - 03371256666
-    - 03324164643
-    - 03324164555
-    - 1800123101666
+   - 03371256666
+   - 03324164643
+   - 03324164555
+   - 1800123101666
 
 6. Apollo Gleneagles Hospital
 
-    - 03323203040
-    - 03323202122
-    - 18605001066
+   - 03323203040
+   - 03323202122
+   - 18605001066
 
 7. B P Poddar
 
-    - 9007032832
+   - 9007032832
 
 8. B.P. Poddar Hospital & Medical Research
 
-    - 033 4022 6000
+   - 033 4022 6000
 
 9. Belle Vue Clinic
 
-  - 3322872322
+- 3322872322
 
 10. Bhagirath Neotia New Town ( Covid Suspects)
 
@@ -218,7 +220,7 @@
     - 3340904090
 
 18. Columbia Asia Hospital Salt Lake
- 
+
     - 033 6600 3300
     - 033 3989 8969
 
@@ -329,7 +331,7 @@
     - 033 2562 7701
 
 39. Nabajiban Hospital Pvt. Ltd.
-  
+
     - 90516 19016
 
 40. Nehru Memorial Techno Global

@@ -67,7 +67,7 @@ Statewise Resources for CovINDBot
 - Covid Patient Status : http://cpms.wbhealth.gov.in:8003/PatientStatusForPublic.aspx
 - Plasma Donation : http://applyonline.wbhealth.gov.in:8004/
 - Covid Live Audio Visual TeleMedicine : https://www.wbhealth.gov.in/contents/covid_telemedicine
-- Swasthya Bhawan : +91 6290648755 || +91 6291215847 || https://www.wbhealth.gov.in/contents/contactus
+- Swasthya Bhawan : +91 6290648755 +91 6291215847 https://www.wbhealth.gov.in/contents/contactus
 
 <a name="westbengal-resources" />
 
@@ -111,75 +111,75 @@ Statewise Resources for CovINDBot
 #### Government Hospitals
 
 1. NRS Hospital (Nil Ratan Sircar Medical College and Hospital)
-  - 033 2286 0033
-  - 033 2265 3214
-  - 033 2265 3215
-  - 033 2265 3216
-  - 033 2265 3217
+    - 033 2286 0033
+    - 033 2265 3214
+    - 033 2265 3215
+    - 033 2265 3216
+    - 033 2265 3217
 
 2. Calcutta Medical College
-  - 033 2255 1621
+    - 033 2255 1621
 
 3. Chittaranjan National Cancer Institute (CNCI)
 
-  - 033 2476 5101 
-  - 033 23245010
-  - 033 23245011
-  - 033 23245013
-  - 033 23245014
+    - 033 2476 5101 
+    - 033 23245010
+    - 033 23245011
+    - 033 23245013
+    - 033 23245014
 
 4. COM & Sagar Datta Hospital
 
-  - 033 2583 4277
-  - 033 2523 9058
-  - 80132 78169
+    - 033 2583 4277
+    - 033 2523 9058
+    - 80132 78169
 
 5. ESIC Medical College and Hospitals (ESI-PGIMSR Medical College and Hospital)
 
-  - 033 2467 1764
+    - 033 2467 1764
 
 6. M R Bangur Hospital
 
-  - 08820702070
+    - 08820702070
 
 #### Private Hospitals
 
 1. Al Amin Gopalpur Nursing Home
 
-  - 033 2357 6000
+    - 033 2357 6000
 
 2. All Asia Medical Institute
 
-  - 3340012200
+    - 3340012200
 
 3. AMRI Hospital, Mukundapur
 
-  - 033 6680 0000
+    - 033 6680 0000
 
 4. AMRI Hospital, Salt Lake
 
-  - 033 6606 3800
+    - 033 6606 3800
 
 5. APEX IMS
 
-  - 03371256666
-  - 03324164643
-  - 03324164555
-  - 1800123101666
+    - 03371256666
+    - 03324164643
+    - 03324164555
+    - 1800123101666
 
 6. Apollo Gleneagles Hospital
 
-  - 03323203040
-  - 03323202122
-  - 18605001066
+    - 03323203040
+    - 03323202122
+    - 18605001066
 
 7. B P Poddar
 
-  - 9007032832
+    - 9007032832
 
 8. B.P. Poddar Hospital & Medical Research
 
-  - 033 4022 6000
+    - 033 4022 6000
 
 9. Belle Vue Clinic
 
@@ -187,277 +187,277 @@ Statewise Resources for CovINDBot
 
 10. Bhagirath Neotia New Town ( Covid Suspects)
 
-  - 3366405000
+    - 3366405000
 
 11. Bharat Sevashram Sangha Hospital
 
-  - 90733 68550
-  - 90733 68556
-  - 90733 68563
-  - 98312 80177
+    - 90733 68550
+    - 90733 68556
+    - 90733 68563
+    - 98312 80177
 
 12. Bibhuti Nursing Home
 
-  - 03215 255090
+    - 03215 255090
 
 13. Calcutta Heart Clinic, Salt Lake
 
-  - 3323585735
+    - 3323585735
 
 14. Centenary Hospital
 
-  - 3371003643
+    - 3371003643
 
 15. Charnock Hospital
 
-  - 033 4050 0500
-  - 033 4050 0900
+    - 033 4050 0500
+    - 033 4050 0900
 
 16. Charring Cross
 
-  - 3323598353
+    - 3323598353
 
 17. CMRI
 
-  - 3340904090
+    - 3340904090
 
 18. Columbia Asia Hospital Salt Lake
  
-  - 033 6600 3300
-  - 033 3989 8969
+    - 033 6600 3300
+    - 033 3989 8969
 
 19. Dafodil Hospitals
 
-  - 3340505555
+    - 3340505555
 
 20. Desun Hospital, Kolkata
 
-  - 090517 15171
+    - 090517 15171
 
 21. Divine Nursing Home
 
-  - 03340156788
-  - 03340156789
+    - 03340156788
+    - 03340156789
 
 22. Dream Land Nursing Home
 
-  - 033 2555 3216
-  - 033 2555 3217
-  - 98303 28500
-  - 98300 59535
+    - 033 2555 3216
+    - 033 2555 3217
+    - 98303 28500
+    - 98300 59535
 
 23. EEDF Medicare Centre (Sri Aurobindo Seva Kendra)
 
-  - 03340171717
-  - 03340171522
-  - 03340171526
-  - 03340171573
+    - 03340171717
+    - 03340171522
+    - 03340171526
+    - 03340171573
 
 24. Ekbalpur Nursing Home
 
-  - 033 2449 4514
-  - 033 2449 5248
-  - 033 3091 0909
-  - 03324495151
+    - 033 2449 4514
+    - 033 2449 5248
+    - 033 3091 0909
+    - 03324495151
 
 25. Fortis Hospital
 
-  - 03366284444
+    - 03366284444
 
 26. Mission Of Mercy Hospital
 
-  - 033 66352000
+    - 033 66352000
 
 27. Genesis Hospital (Covid Suspects)
 
-  - 03322424242
+    - 03322424242
 
 28. GNRC Medical
 
-  - 1800 345 0022
-  - 033 2584 7005
-  - 033 2584 7006
+    - 1800 345 0022
+    - 033 2584 7005
+    - 033 2584 7006
 
 29. ILS Hospital, Dumdum
 
-  - 03340315000
-  - 03340315001
-  - 9830400443
+    - 03340315000
+    - 03340315001
+    - 9830400443
 
 30. ILS Howrah
 
-  - 3340880000
+    - 3340880000
 
 31. Ispat Cooperative Hospital
 
-  - 03218260006
-  - 8001257528
-  - 967448346
+    - 03218260006
+    - 8001257528
+    - 967448346
 
 32. J N Ray Covid Hospital
 
-  - 90732 12223
+    - 90732 12223
 
 33. Jagannath Gupta Medical College & Hospital
 
-  - 033 2482 3500
+    - 033 2482 3500
 
 34. Kothari Medical Centre
 
-  - 033 4012 7000
-  - 91521 54575
+    - 033 4012 7000
+    - 91521 54575
 
 35. Maa Durga Nursing Home
 
-  - 97326 25505
+    - 97326 25505
 
 36. Marwari Relief Society Hospital TB Unit
 
-  - 033 2274 3722
-  - 033 2274 3725
-  - 033 2274 4725
-  - 93397 25243
+    - 033 2274 3722
+    - 033 2274 3725
+    - 033 2274 4725
+    - 93397 25243
 
 37. Medica Super specialty Hospital
 
-  - 70330 93400
-  - 85848 58678
-  - 033 6652 0000
-  - 03366560171
+    - 70330 93400
+    - 85848 58678
+    - 033 6652 0000
+    - 03366560171
 
 38. Megacity Nursing Home
 
-  - 62903 37393
-  - 033 2552 6319
-  - 033 2552 5069
-  - 033 2562 7701
+    - 62903 37393
+    - 033 2552 6319
+    - 033 2552 5069
+    - 033 2562 7701
 
 39. Nabajiban Hospital Pvt. Ltd.
   
-  - 90516 19016
+    - 90516 19016
 
 40. Nehru Memorial Techno Global
 
-  - 033 6630 3030
-  - 033 2593 0099
-  - 033 2592 0145
-  - 033 2592 9922
+    - 033 6630 3030
+    - 033 2593 0099
+    - 033 2592 0145
+    - 033 2592 9922
 
 41. Nightingale Hospital
 
-  - 033 2282 7969
-  - 033 2282 7971
-  - 033 2282 7465
-  - 98743 76667
+    - 033 2282 7969
+    - 033 2282 7971
+    - 033 2282 7465
+    - 98743 76667
 
 42. North City Hospital
 
-  - 033 6605 0999
-  - 033 6632 8555
+    - 033 6605 0999
+    - 033 6632 8555
 
 43. OHIO Hospital
 
-  - 033 6602 6602
-  - 82404 85537
+    - 033 6602 6602
+    - 82404 85537
 
 44. Peerless Hospital
 
-  - 033 4011 1222
-  - 033 4033 3333
-  - 033 2432 4989
+    - 033 4011 1222
+    - 033 4033 3333
+    - 033 2432 4989
 
 45. R. N. Tagore IICS
 
-  - 1860 208 0208
-  - 80675 06860
-  - 80675 06803
+    - 1860 208 0208
+    - 80675 06860
+    - 80675 06803
 
 46. Remedy Hospital
 
-  - 91633 25269
-  - 033 2435 6479
-  - 033 2435 1057
+    - 91633 25269
+    - 033 2435 6479
+    - 033 2435 1057
 
 47. Royd Nursing Home
 
-  - 033 4601 6536
-  - 033 2227 1666
-  - 033 3354 7000
+    - 033 4601 6536
+    - 033 2227 1666
+    - 033 3354 7000
 
 48. RSV Hospital
 
-  - 033 3001 3000
-  - 91521 37423
+    - 033 3001 3000
+    - 91521 37423
 
 49. Ruby General Hospital
 
-  - 033 6687 1800
-  - 033 6601 1800
-  - 033 3987 1800
-  - 89103 05946
+    - 033 6687 1800
+    - 033 6601 1800
+    - 033 3987 1800
+    - 89103 05946
 
 50. Sahid Khudiram Bose Hospital & Diagnostic Centre
 
-  - 033 2544 3250
-  - 033 2544 8408
-  - 98311 96190
+    - 033 2544 3250
+    - 033 2544 8408
+    - 98311 96190
 
 51. Shusrusha Nursing Home
 
-  - 033 2362 8863
-  - 98744 10298
+    - 033 2362 8863
+    - 98744 10298
 
 52. Spandan, Teghoria
 
-  - 033 4004 5511
-  - 033 2570 0112
-  - 99039 94645
+    - 033 4004 5511
+    - 033 2570 0112
+    - 99039 94645
 
 53. Sterling Hospital
 
-  - 70038 23692
-  - 98307 07516
+    - 70038 23692
+    - 98307 07516
 
 54. Subodh Mitra Cancer Hospital
 
-  - 033 2335 2515
-  - 98301 59832
-  - 98315 98502
+    - 033 2335 2515
+    - 98301 59832
+    - 98315 98502
 
 55. SVS Marwari
 
-  - 033 3061 2200
-  - 033 4023 3030
-  - 98365 84467
+    - 033 3061 2200
+    - 033 4023 3030
+    - 98365 84467
 
 56. Tata Medical Centre, Newtown
 
-  - 033 6605 7000
-  - 033 6605 7222
-  - 033 6500 9639
+    - 033 6605 7000
+    - 033 6605 7222
+    - 033 6500 9639
 
 57. The Calcutta Medical Research Institute
 
-  - 033 4090 4090
+    - 033 4090 4090
 
 58. The Sahararhat Nursing Home
 
-  - 94340 37116
-  - 03174 225316
+    - 94340 37116
+    - 03174 225316
 
 59. Woodlands Multispeciality Hospital
 
-  - 033 4033 7032
-  - 033 4033 7033
-  - 033 2456 7075
+    - 033 4033 7032
+    - 033 4033 7033
+    - 033 2456 7075
 
 60. Zenith super specialist Hospital
 
-  - 033 2544 4390
-  - 033 2544 4391
-  - 76050 98084
+    - 033 2544 4390
+    - 033 2544 4391
+    - 76050 98084
 
 61. Zodiac Medicare Pvt. Ltd.
 
-  - 033 4068 6161
-  - 84200 12809
+    - 033 4068 6161
+    - 84200 12809

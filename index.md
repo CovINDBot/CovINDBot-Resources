@@ -1,3 +1,4 @@
+
 - [ Plasma Banks](#india-plasma-banks)
 - [ Social Media Groups](#social-media)
 - [ West Bengal ](#westbengal)
@@ -58,6 +59,7 @@
 ### Official Links and Contacts
 
 - Covid Bengal : <https://wb.gov.in/COVID-19.aspx>
+- Bed Availability in Any Hospital : <https://excise.wb.gov.in/CHMS/Public/Page/CHMS_Public_Hospital_Bed_Availability.aspx>
 - Bed Availability in Government Hospital : <https://www.wbhealth.gov.in/pages/corona/bed_availability>
 - Bed Availability in Private Hospital : <https://www.wbhealth.gov.in/pages/corona/bed_availability_pvt>
 - Covid Patient Status : <http://cpms.wbhealth.gov.in:8003/PatientStatusForPublic.aspx>

@@ -1,4 +1,3 @@
-
 - [ Plasma Banks](#india-plasma-banks)
 - [ Social Media Groups](#social-media)
 - [ West Bengal ](#westbengal)
@@ -461,3 +460,7 @@
 
     - 033 4068 6161
     - 84200 12809
+
+62. Kishor Bharati Stadium ( Makeshift Hospital by Medica Superspeciality Hospitals )
+
+    - 033 6652 0000
